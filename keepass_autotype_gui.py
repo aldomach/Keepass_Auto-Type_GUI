@@ -4,7 +4,7 @@ def button_click(shortcut):
     text_field.insert(tk.END, shortcut)
 
 root = tk.Tk()
-root.title("KeepassXC Autotyper Facilitator GUI")
+root.title("KeepassXC Autotyper Facilitator GUI - aldo.net.ar")
 root.resizable(False, False)  # Impedir cambiar el tamaño de la ventana
 
 # Crear botones para cada atajo
